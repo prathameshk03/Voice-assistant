@@ -1,4 +1,4 @@
-# Voice-assistant
+# Voice-assistant in Python
 
 Packages required:
 speech_recognition 
